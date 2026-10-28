@@ -286,5 +286,14 @@
     "email": "forumdeigiovani0@gmail.com",
     "social": "https://www.instagram.com/forumgiovanipoggibonsi/",
     "logo": "poggibonsi.png"
+  },
+  {
+    "regione": "calabria",
+    "nome": "Consulta Giovanile di Ardore",
+    "comune": "Ardore (RC)",
+    "provincia": "Reggio Calabria",
+    "email": "giovanileardoreconsulta@gmail.com",
+    "social": "https://www.instagram.com/consultagiovanile_ardore/",
+    "logo": "https://raw.githubusercontent.com/archiviogeneratioprs-lgtm/albo-consulte/main/loghi/ardore-1793207789760.png"
   }
 ]
