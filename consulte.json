@@ -1,0 +1,290 @@
+[
+  {
+    "regione": "campania",
+    "nome": "Forum Giovani di Forio",
+    "comune": "Forio (NA)",
+    "provincia": "Napoli",
+    "email": "forumgiovaniforio@gmail.com",
+    "social": "https://www.instagram.com/forumgiovaniforio/",
+    "logo": "forio.png"
+  },
+  {
+    "regione": "campania",
+    "nome": "Forum dei Giovani di Napoli",
+    "comune": "Napoli (NA)",
+    "provincia": "Napoli",
+    "email": "",
+    "social": "https://www.instagram.com/forum_dei_giovani_napoli/",
+    "logo": "napoli.png"
+  },
+  {
+    "regione": "sicilia",
+    "nome": "Consulta Giovanile di Siculiana",
+    "comune": "Siculiana (AG)",
+    "provincia": "Agrigento",
+    "email": "consultagiovanilesiculiana@gmail.com",
+    "social": "https://www.instagram.com/consultagiovanilesiculiana/",
+    "logo": "siculiana.png"
+  },
+  {
+    "regione": "sicilia",
+    "nome": "Consulta Giovanile di Aci Catena",
+    "comune": "Aci Catena (CT)",
+    "provincia": "Catania",
+    "email": "consultagiovanicatena@gmail.com",
+    "social": "https://www.instagram.com/consultagiovanile_acicatena/",
+    "logo": "acicatena.png"
+  },
+  {
+    "regione": "sicilia",
+    "nome": "Consulta Giovanile Comune di Santa Venerina",
+    "comune": "Santa Venerina (CT)",
+    "provincia": "Catania",
+    "email": "consultagiovanilesv@gmail.com",
+    "social": "https://www.instagram.com/consultagiovanilesv/",
+    "logo": "santavenerina.png"
+  },
+  {
+    "regione": "sicilia",
+    "nome": "Consulta Giovanile di Bagheria",
+    "comune": "Bagheria (PA)",
+    "provincia": "Palermo",
+    "email": "consulta.giovani@comune.bagheria.pa.it",
+    "social": "https://www.instagram.com/consultagiovanilebagheria/",
+    "logo": "bagheria.png"
+  },
+  {
+    "regione": "sicilia",
+    "nome": "Consulta Giovanile di Castelbuono",
+    "comune": "Castelbuono (PA)",
+    "provincia": "Palermo",
+    "email": "comconsultacastelbuono@gmail.com",
+    "social": "https://www.instagram.com/consultacastelbuono/",
+    "logo": "castelbuono.png"
+  },
+  {
+    "regione": "sicilia",
+    "nome": "Consulta Giovanile Sciarese",
+    "comune": "Sciara (PA)",
+    "provincia": "Palermo",
+    "email": "consultagiovanilesciara@gmail.com",
+    "social": "https://www.instagram.com/consulta.giovanile.sciarese_/",
+    "logo": "sciarese.png"
+  },
+  {
+    "regione": "sicilia",
+    "nome": "Consulta Giovanile Comunale di Ragusa",
+    "comune": "Ragusa (RG)",
+    "provincia": "Ragusa",
+    "email": "consulta.giovanile@comune.ragusa.it",
+    "social": "https://www.instagram.com/consultagiovanileragusa/",
+    "logo": "ragusa.png"
+  },
+  {
+    "regione": "sicilia",
+    "nome": "Consulta Giovanile del Comune di Misiliscemi",
+    "comune": "Misiliscemi (TP)",
+    "provincia": "Trapani",
+    "email": "cgc.misiliscemi@gmail.com",
+    "social": "https://www.instagram.com/cgc_misiliscemi/",
+    "logo": "misiliscemi.png"
+  },
+  {
+    "regione": "toscana",
+    "nome": "Consulta Giovani San Giovanni Valdarno",
+    "comune": "San Giovanni Valdarno (AR)",
+    "provincia": "Arezzo",
+    "email": "cultura@comunesvg.it",
+    "social": "https://www.instagram.com/consultagiovanisgv/",
+    "logo": "san-giovanni-valdarno.png"
+  },
+  {
+    "regione": "toscana",
+    "nome": "Consulta Giovani Terranuova Bracciolini",
+    "comune": "Terranuova Bracciolini (AR)",
+    "provincia": "Arezzo",
+    "email": "consultagiovaniterranuova@gmail.com",
+    "social": "https://www.instagram.com/consultagiovani_terranuova/",
+    "logo": "terranuova-bracciolini.png"
+  },
+  {
+    "regione": "toscana",
+    "nome": "Consulta dei Giovani di Barberino Tavarnelle",
+    "comune": "Barberino Tavarnelle (FI)",
+    "provincia": "Firenze",
+    "email": "consultagiovanibt@gmail.com",
+    "social": "https://www.instagram.com/consultagiovanibt/",
+    "logo": "barberino-tavarnelle.png"
+  },
+  {
+    "regione": "toscana",
+    "nome": "Consulta dei Giovani di Lastra a Signa",
+    "comune": "Lastra a Signa (FI)",
+    "provincia": "Firenze",
+    "email": "cgiovani@comune.lastra-signa.fi.it",
+    "social": "https://www.instagram.com/consultagiovani.lastraasigna/",
+    "logo": "lastra-a-signa.png"
+  },
+  {
+    "regione": "toscana",
+    "nome": "Consulta Giovani di Reggello",
+    "comune": "Reggello (FI)",
+    "provincia": "Firenze",
+    "email": "consultagiovani@comune.reggello.fi.it",
+    "social": "https://www.instagram.com/consultagiovani_reggello/",
+    "logo": "reggello.png"
+  },
+  {
+    "regione": "toscana",
+    "nome": "Consulta Giovani Rignano sull'Arno",
+    "comune": "Rignano sull'Arno (FI)",
+    "provincia": "Firenze",
+    "email": "consultagiovani@comune.rignano-sullarno.fi.it",
+    "social": "https://www.instagram.com/consultagiovanirignano?igsh=em5hcW82aW9iOWww&utm_source=qr",
+    "logo": "consulta-giovani-rignano.png"
+  },
+  {
+    "regione": "toscana",
+    "nome": "Consulta Giovani San Casciano Val di Pesa",
+    "comune": "San Casciano Val di Pesa (FI)",
+    "provincia": "Firenze",
+    "email": "consultagiovanisancasciano@gmail.com",
+    "social": "https://www.instagram.com/la_honsurta/",
+    "logo": "san-casciano-val-di-pesa.png"
+  },
+  {
+    "regione": "toscana",
+    "nome": "Consulta Giovani di Scarperia e San Piero",
+    "comune": "Scarperia e San Piero (FI)",
+    "provincia": "Firenze",
+    "email": "consultagiovani@comune.scarperiaesanpiero.fi.it",
+    "social": "https://www.instagram.com/igiovani_discarperiaesanpiero/",
+    "logo": "scarperia-e-san-piero.png"
+  },
+  {
+    "regione": "toscana",
+    "nome": "Consulta Giovanile di Vinci",
+    "comune": "Vinci (FI)",
+    "provincia": "Firenze",
+    "email": "consultagiovanile@comune.vinci.fi.it",
+    "social": "https://www.instagram.com/consultagiovanilevinci/",
+    "logo": "vinci.png"
+  },
+  {
+    "regione": "toscana",
+    "nome": "Consiglio Comunale dei Giovani di Pitigliano",
+    "comune": "Pitigliano (GR)",
+    "provincia": "Grosseto",
+    "email": "consigliocomunaledeigiovanip@gmail.com",
+    "social": "https://www.instagram.com/giovani_pitiglianesi/",
+    "logo": "pitigliano.png"
+  },
+  {
+    "regione": "toscana",
+    "nome": "Forum Giovani dell'Elba",
+    "comune": "Isola d'Elba (LI)",
+    "provincia": "Livorno",
+    "email": "forumgiovani.elba@gmail.com",
+    "social": "https://www.instagram.com/forum.giovani.elba/",
+    "logo": "forum-elba.png"
+  },
+  {
+    "regione": "toscana",
+    "nome": "Consulta Giovani di Barga",
+    "comune": "Barga (LU)",
+    "provincia": "Lucca",
+    "email": "consultadeigiovani@comunedibarga.it",
+    "social": "https://www.instagram.com/consultadeigiovanibarga/",
+    "logo": "barga.png"
+  },
+  {
+    "regione": "toscana",
+    "nome": "Consulta dei Giovani di Castelnuovo di Garfagnana",
+    "comune": "Castelnuovo di Garfagnana (LU)",
+    "provincia": "Lucca",
+    "email": "consultadeigiovani.cdg@gmail.com",
+    "social": "https://www.instagram.com/consultadeigiovani.cdg/",
+    "logo": "castelnuovo-di-garfagnana.png"
+  },
+  {
+    "regione": "toscana",
+    "nome": "Consulta Giovanile Forte dei Marmi",
+    "comune": "Forte dei Marmi (LU)",
+    "provincia": "Lucca",
+    "email": "consultagiovanile@comunefdm.it",
+    "social": "https://www.instagram.com/consultagiovanile.fdm/",
+    "logo": "forte-dei-marmi.png"
+  },
+  {
+    "regione": "toscana",
+    "nome": "Consulta Giovanile Gallicano",
+    "comune": "Gallicano (LU)",
+    "provincia": "Lucca",
+    "email": "consultagiovanilegallicano@gmail.com",
+    "social": "https://www.instagram.com/consultagiovanilegallicano/",
+    "logo": "gallicano.png"
+  },
+  {
+    "regione": "toscana",
+    "nome": "Consulta Giovanile di San Romano in Garfagnana",
+    "comune": "San Romano in Garfagnana (LU)",
+    "provincia": "Lucca",
+    "email": "consultadeigiovani@comune.sanromanoingarfagnana.lu.it",
+    "social": "https://www.instagram.com/consultagiovanilesanromano/",
+    "logo": "sanromano.png"
+  },
+  {
+    "regione": "toscana",
+    "nome": "Consulta delle politiche giovanili del Comune di Carrara",
+    "comune": "Carrara (MS)",
+    "provincia": "Massa-Carrara",
+    "email": "presidente.consulta.giovanile@comune.carrara.it",
+    "social": "https://www.instagram.com/cpg.comune.di.carrara/",
+    "logo": "carrara.png"
+  },
+  {
+    "regione": "toscana",
+    "nome": "Consulta Giovani del Comune di Pisa",
+    "comune": "Pisa (PI)",
+    "provincia": "Pisa",
+    "email": "info@genprs.it",
+    "social": null,
+    "logo": "pisa.png"
+  },
+  {
+    "regione": "toscana",
+    "nome": "Consiglio Comunale Giovani di Volterra",
+    "comune": "Volterra (PI)",
+    "provincia": "Pisa",
+    "email": "consigliodeigiovani@comune.volterra.pi.it",
+    "social": "https://www.instagram.com/consigliocomunalegiovani?igsh=eWt3cDQyZDM5cmlr",
+    "logo": "consiglio-comunale-giovani-di-volterra.png"
+  },
+  {
+    "regione": "toscana",
+    "nome": "Consulta Giovanile di Lamporecchio",
+    "comune": "Lamporecchio (PT)",
+    "provincia": "Pistoia",
+    "email": "presidente.consulta@comune.lamporecchio.pt.it",
+    "social": "https://www.instagram.com/consultagiovanilelamporecchio/",
+    "logo": "lamporecchio.png"
+  },
+  {
+    "regione": "toscana",
+    "nome": "Consulta Giovani di Abbadia San Salvatore",
+    "comune": "Abbadia San Salvatore (SI)",
+    "provincia": "Siena",
+    "email": "consultagiovaniabbadia@gmail.com",
+    "social": "https://www.instagram.com/consultagiovani_abbadia/",
+    "logo": "abbadia-san-salvatore.png"
+  },
+  {
+    "regione": "toscana",
+    "nome": "Forum Giovani di Poggibonsi",
+    "comune": "Poggibonsi (SI)",
+    "provincia": "Siena",
+    "email": "forumdeigiovani0@gmail.com",
+    "social": "https://www.instagram.com/forumgiovanipoggibonsi/",
+    "logo": "poggibonsi.png"
+  }
+]
