@@ -1,5 +1,23 @@
 [
   {
+    "regione": "abruzzo",
+    "nome": "prova",
+    "comune": "prova (CH)",
+    "provincia": "Chieti",
+    "email": "",
+    "social": "",
+    "logo": ""
+  },
+  {
+    "regione": "calabria",
+    "nome": "Consulta Giovanile di Ardore",
+    "comune": "Ardore (RC)",
+    "provincia": "Reggio Calabria",
+    "email": "giovanileardoreconsulta@gmail.com",
+    "social": "https://www.instagram.com/consultagiovanile_ardore/",
+    "logo": "https://raw.githubusercontent.com/archiviogeneratioprs-lgtm/albo-consulte/main/loghi/ardore-1793207789760.png"
+  },
+  {
     "regione": "campania",
     "nome": "Forum Giovani di Forio",
     "comune": "Forio (NA)",
@@ -61,6 +79,15 @@
     "email": "comconsultacastelbuono@gmail.com",
     "social": "https://www.instagram.com/consultacastelbuono/",
     "logo": "castelbuono.png"
+  },
+  {
+    "regione": "sicilia",
+    "nome": "Consulta Giovanile Comunale di Montemaggiore Belsito",
+    "comune": "Montemaggiore Belsito (PA)",
+    "provincia": "Palermo",
+    "email": "cgcmontemaggiorebelsito@pec.it",
+    "social": "https://www.instagram.com/consultagiovanilemontemaggiore/",
+    "logo": "https://raw.githubusercontent.com/archiviogeneratioprs-lgtm/albo-consulte/main/loghi/montemaggiore-belsito-1793208009287.jpeg"
   },
   {
     "regione": "sicilia",
@@ -286,23 +313,5 @@
     "email": "forumdeigiovani0@gmail.com",
     "social": "https://www.instagram.com/forumgiovanipoggibonsi/",
     "logo": "poggibonsi.png"
-  },
-  {
-    "regione": "calabria",
-    "nome": "Consulta Giovanile di Ardore",
-    "comune": "Ardore (RC)",
-    "provincia": "Reggio Calabria",
-    "email": "giovanileardoreconsulta@gmail.com",
-    "social": "https://www.instagram.com/consultagiovanile_ardore/",
-    "logo": "https://raw.githubusercontent.com/archiviogeneratioprs-lgtm/albo-consulte/main/loghi/ardore-1793207789760.png"
-  },
-  {
-    "regione": "sicilia",
-    "nome": "Consulta Giovanile Comunale di Montemaggiore Belsito",
-    "comune": "Montemaggiore Belsito (PA)",
-    "provincia": "Palermo",
-    "email": "cgcmontemaggiorebelsito@pec.it",
-    "social": "https://www.instagram.com/consultagiovanilemontemaggiore/",
-    "logo": "https://raw.githubusercontent.com/archiviogeneratioprs-lgtm/albo-consulte/main/loghi/montemaggiore-belsito-1793208009287.jpeg"
   }
 ]
