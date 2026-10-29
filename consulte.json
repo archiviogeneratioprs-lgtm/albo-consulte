@@ -82,6 +82,15 @@
   },
   {
     "regione": "sicilia",
+    "nome": "Consulta Giovanile di Isnello",
+    "comune": "Isnello (PA)",
+    "provincia": "Palermo",
+    "email": "consultagiovanilediisnello@gmail.com",
+    "social": "https://www.instagram.com/consulta.giovanile.isnello/",
+    "logo": "https://raw.githubusercontent.com/archiviogeneratioprs-lgtm/albo-consulte/main/loghi/isnello-1793316051550.jpeg"
+  },
+  {
+    "regione": "sicilia",
     "nome": "Consulta Giovanile Comunale di Montemaggiore Belsito",
     "comune": "Montemaggiore Belsito (PA)",
     "provincia": "Palermo",
