@@ -46,6 +46,15 @@
   },
   {
     "regione": "sicilia",
+    "nome": "Consulta Giovanile Comunale di Sambuca di Sicilia",
+    "comune": "Sambuca di Sicilia (AG)",
+    "provincia": "Agrigento",
+    "email": "consultagiovanilesambuca@gmail.com",
+    "social": "https://www.instagram.com/consultagiovanile.sambuca/",
+    "logo": "https://raw.githubusercontent.com/archiviogeneratioprs-lgtm/albo-consulte/main/loghi/sambuca-di-sicilia-1793788794184.jpeg"
+  },
+  {
+    "regione": "sicilia",
     "nome": "Consulta Giovanile di Siculiana",
     "comune": "Siculiana (AG)",
     "provincia": "Agrigento",
