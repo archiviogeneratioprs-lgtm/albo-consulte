@@ -253,6 +253,15 @@
   },
   {
     "regione": "toscana",
+    "nome": "Commissione Giovani di Capannori",
+    "comune": "Capannori (LU)",
+    "provincia": "Lucca",
+    "email": "politichegiovanili@comune.capannori.lu.it",
+    "social": "https://www.instagram.com/giovanicapannori/",
+    "logo": "https://raw.githubusercontent.com/archiviogeneratioprs-lgtm/albo-consulte/main/loghi/capannori-1794147471152.jpg"
+  },
+  {
+    "regione": "toscana",
     "nome": "Consulta dei Giovani di Castelnuovo di Garfagnana",
     "comune": "Castelnuovo di Garfagnana (LU)",
     "provincia": "Lucca",
