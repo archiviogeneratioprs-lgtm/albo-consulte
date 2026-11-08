@@ -82,6 +82,15 @@
   },
   {
     "regione": "sicilia",
+    "nome": "Consulta Giovanile di Giardini Naxos",
+    "comune": "Giardini Naxos (ME)",
+    "provincia": "Messina",
+    "email": "consultagiardininaxos@gmail.com",
+    "social": "https://www.instagram.com/consultagiovanilegiardininaxos/",
+    "logo": "https://raw.githubusercontent.com/archiviogeneratioprs-lgtm/albo-consulte/main/loghi/giardini-naxos-1794166111638.png"
+  },
+  {
+    "regione": "sicilia",
     "nome": "Consulta Giovanile di Bagheria",
     "comune": "Bagheria (PA)",
     "provincia": "Palermo",
