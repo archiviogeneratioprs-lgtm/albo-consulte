@@ -1,6 +1,15 @@
 [
   {
     "regione": "calabria",
+    "nome": "Consulta Giovanile di Squillace",
+    "comune": "Squillace (CZ)",
+    "provincia": "Catanzaro",
+    "email": "consultagiovanilesquillace@gmail.com",
+    "social": "https://www.instagram.com/consultagiovanilesquillace/",
+    "logo": "https://raw.githubusercontent.com/archiviogeneratioprs-lgtm/albo-consulte/main/loghi/squillace-1794265562490.jpg"
+  },
+  {
+    "regione": "calabria",
     "nome": "Consulta Giovanile di Ardore",
     "comune": "Ardore (RC)",
     "provincia": "Reggio Calabria",
