@@ -82,6 +82,15 @@
   },
   {
     "regione": "sicilia",
+    "nome": "Consulta Giovanile di Calatabiano",
+    "comune": "Calatabiano (CT)",
+    "provincia": "Catania",
+    "email": "cgcalatabiano@gmail.com",
+    "social": "https://www.instagram.com/consultagiovanilecalatabiano/",
+    "logo": "https://raw.githubusercontent.com/archiviogeneratioprs-lgtm/albo-consulte/main/loghi/calatabiano-1794315523748.png"
+  },
+  {
+    "regione": "sicilia",
     "nome": "Consulta Giovanile Comune di Santa Venerina",
     "comune": "Santa Venerina (CT)",
     "provincia": "Catania",
