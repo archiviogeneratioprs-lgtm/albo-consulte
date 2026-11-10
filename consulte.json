@@ -73,6 +73,15 @@
   },
   {
     "regione": "sicilia",
+    "nome": "Consulta Giovanile di Villalba",
+    "comune": "Villalba (CL)",
+    "provincia": "Caltanissetta",
+    "email": "consultagiovanilevillalba@gmail.com",
+    "social": "https://www.instagram.com/consultagiovanilevillalba/",
+    "logo": "https://raw.githubusercontent.com/archiviogeneratioprs-lgtm/albo-consulte/main/loghi/villalba-1794350020340.jpg"
+  },
+  {
+    "regione": "sicilia",
     "nome": "Consulta Giovanile di Aci Catena",
     "comune": "Aci Catena (CT)",
     "provincia": "Catania",
