@@ -100,6 +100,15 @@
   },
   {
     "regione": "sicilia",
+    "nome": "Consulta Giovanile di San Michele di Ganzaria",
+    "comune": "San Michele di Ganzaria (CT)",
+    "provincia": "Catania",
+    "email": "consulta.giovanile@comune.sanmichelediganzaria.ct.it",
+    "social": "https://www.instagram.com/consultagiovanile_smg/",
+    "logo": "https://raw.githubusercontent.com/archiviogeneratioprs-lgtm/albo-consulte/main/loghi/san-michele-di-ganzaria-1794481402867.png"
+  },
+  {
+    "regione": "sicilia",
     "nome": "Consulta Giovanile Comune di Santa Venerina",
     "comune": "Santa Venerina (CT)",
     "provincia": "Catania",
