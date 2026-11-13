@@ -154,6 +154,15 @@
   },
   {
     "regione": "sicilia",
+    "nome": "Consulta Giovanile di Geraci Siculo",
+    "comune": "Geraci Siculo (PA)",
+    "provincia": "Palermo",
+    "email": "consultagiovanilegeracisiculo@gmail.com",
+    "social": "https://www.instagram.com/consultagiovanile_geracisiculo/",
+    "logo": "https://raw.githubusercontent.com/archiviogeneratioprs-lgtm/albo-consulte/main/loghi/geraci-siculo-1794529178350.png"
+  },
+  {
+    "regione": "sicilia",
     "nome": "Consulta Giovanile di Isnello",
     "comune": "Isnello (PA)",
     "provincia": "Palermo",
