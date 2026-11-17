@@ -118,6 +118,15 @@
   },
   {
     "regione": "sicilia",
+    "nome": "Consulta Giovanile di Ragalna",
+    "comune": "Ragalna (CT)",
+    "provincia": "Catania",
+    "email": "ragalnaconsultagiovanile@gmail.com",
+    "social": "https://www.instagram.com/consultagiovanile_ragalna/",
+    "logo": "https://raw.githubusercontent.com/archiviogeneratioprs-lgtm/albo-consulte/main/loghi/ragalna-1794941327127.png"
+  },
+  {
+    "regione": "sicilia",
     "nome": "Consulta Giovanile di San Michele di Ganzaria",
     "comune": "San Michele di Ganzaria (CT)",
     "provincia": "Catania",
