@@ -163,6 +163,15 @@
   },
   {
     "regione": "sicilia",
+    "nome": "Consulta Comunale Giovanile di Corleone",
+    "comune": "Corleone (PA)",
+    "provincia": "Palermo",
+    "email": "protocollo@pec.comune.corleone.pa.it",
+    "social": "https://www.instagram.com/consultagiovani_corleone",
+    "logo": "https://raw.githubusercontent.com/archiviogeneratioprs-lgtm/albo-consulte/main/loghi/corleone-1794922669335.jpg"
+  },
+  {
+    "regione": "sicilia",
     "nome": "Consulta Giovanile di Geraci Siculo",
     "comune": "Geraci Siculo (PA)",
     "provincia": "Palermo",
