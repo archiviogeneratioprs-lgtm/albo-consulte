@@ -154,6 +154,15 @@
   },
   {
     "regione": "sicilia",
+    "nome": "Consulta Giovanile di San Fratello",
+    "comune": "San Fratello (ME)",
+    "provincia": "Messina",
+    "email": "consgiovanilesanfratello@outlook.com",
+    "social": "https://www.instagram.com/consultagiovanile_sanfratello/",
+    "logo": "https://raw.githubusercontent.com/archiviogeneratioprs-lgtm/albo-consulte/main/loghi/san-fratello-1795693524132.png"
+  },
+  {
+    "regione": "sicilia",
     "nome": "Consulta Giovanile di Torrenova",
     "comune": "Torrenova (ME)",
     "provincia": "Messina",
