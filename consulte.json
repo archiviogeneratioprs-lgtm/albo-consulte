@@ -55,6 +55,15 @@
   },
   {
     "regione": "sicilia",
+    "nome": "Consulta Giovanile di Camastra",
+    "comune": "Camastra (AG)",
+    "provincia": "Agrigento",
+    "email": "consultagiovanile2@gmail.com",
+    "social": "https://www.instagram.com/consulta_giovanile_camastra_",
+    "logo": "https://raw.githubusercontent.com/archiviogeneratioprs-lgtm/albo-consulte/main/loghi/camastra-1795803370752.png"
+  },
+  {
+    "regione": "sicilia",
     "nome": "Consulta Giovanile Comunale di Sambuca di Sicilia",
     "comune": "Sambuca di Sicilia (AG)",
     "provincia": "Agrigento",
